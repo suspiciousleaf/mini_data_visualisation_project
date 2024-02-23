@@ -1,6 +1,7 @@
 # Project specific data
 pcc_3e-main/
 weather_data/
+eq_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
